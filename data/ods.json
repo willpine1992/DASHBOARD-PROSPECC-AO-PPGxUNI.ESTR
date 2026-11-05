@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-26",
+ "gerado_em": "2026-11-04",
  "metodo": {
   "classificador": "Sentence-BERT all-MiniLM-L6-v2 (cosseno entre linha traduzida p/ EN e descrição do ODS)",
   "min_sim": 0.2,
@@ -9195,6 +9195,64 @@
     "3": {
      "pesquisadores": 2,
      "matches": 2
+    }
+   }
+  },
+  "Columbia University": {
+   "pais": "Estados Unidos",
+   "n_pesquisadores": 301,
+   "ods": {
+    "15": {
+     "pesquisadores": 25,
+     "matches": 38
+    },
+    "13": {
+     "pesquisadores": 30,
+     "matches": 34
+    },
+    "4": {
+     "pesquisadores": 51,
+     "matches": 58
+    },
+    "14": {
+     "pesquisadores": 13,
+     "matches": 13
+    },
+    "9": {
+     "pesquisadores": 41,
+     "matches": 41
+    },
+    "3": {
+     "pesquisadores": 163,
+     "matches": 179
+    },
+    "6": {
+     "pesquisadores": 9,
+     "matches": 12
+    },
+    "12": {
+     "pesquisadores": 10,
+     "matches": 10
+    },
+    "5": {
+     "pesquisadores": 7,
+     "matches": 7
+    },
+    "10": {
+     "pesquisadores": 4,
+     "matches": 4
+    },
+    "16": {
+     "pesquisadores": 4,
+     "matches": 4
+    },
+    "11": {
+     "pesquisadores": 1,
+     "matches": 1
+    },
+    "17": {
+     "pesquisadores": 14,
+     "matches": 14
     }
    }
   }

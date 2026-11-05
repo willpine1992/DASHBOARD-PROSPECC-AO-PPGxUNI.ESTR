@@ -167,6 +167,8 @@ FONTES = [
      "cache": DASHBOARDS_ROOT / "WEBSCRAPING" / "ESTADOS UNIDOS" / "Bunker Hill Community College" / "cache" / "bhcc_match_cache.json"},
     {"id": "USA-CAMBCOL", "pais": "Estados Unidos", "country_code": None, "institution_id": "I4210137154",
      "cache": DASHBOARDS_ROOT / "WEBSCRAPING" / "ESTADOS UNIDOS" / "Cambridge College" / "cache" / "cambridgecollege_match_cache.json"},
+    {"id": "USA-COLUMBIA", "pais": "Estados Unidos", "country_code": None, "institution_id": "I78577930",
+     "cache": DASHBOARDS_ROOT / "WEBSCRAPING" / "ESTADOS UNIDOS" / "Columbia University" / "cache" / "columbia_match_cache.json"},
 ]
 
 
